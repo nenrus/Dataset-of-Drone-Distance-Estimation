@@ -1,0 +1,14 @@
+path: dataset
+train: ../images/train
+val: ../images/val
+test: ../images/test
+
+nc: 1
+names: ['drone']
+
+roboflow:
+  workspace: drone-detection-tjb1d
+  project: my-first-project-hozkx
+  version: 4
+  license: Private
+  url: https://app.roboflow.com/drone-detection-tjb1d/my-first-project-hozkx/4
